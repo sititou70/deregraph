@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/sititou70/yurigraph/static/css/main.62396fd0.css",
-    "main.js": "/sititou70/yurigraph/static/js/main.963b0973.js",
-    "index.html": "/sititou70/yurigraph/index.html"
+    "main.css": "./static/css/main.62396fd0.css",
+    "main.js": "./static/js/main.23ac267c.js",
+    "index.html": "./index.html"
   },
   "entrypoints": [
     "static/css/main.62396fd0.css",
-    "static/js/main.963b0973.js"
+    "static/js/main.23ac267c.js"
   ]
 }
