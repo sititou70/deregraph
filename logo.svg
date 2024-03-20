@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="2.9398148"
-     inkscape:cx="80.277165"
-     inkscape:cy="111.40157"
+     inkscape:cx="80.447244"
+     inkscape:cy="111.40158"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="1600"
@@ -49,26 +49,27 @@
        ry="5.7559261"
        inkscape:label="bg" />
     <path
-       style="fill:none;stroke:#fe346e;stroke-width:3.19139;stroke-opacity:1"
-       d="M 25.399999,13.425533 11.580897,37.360923 H 39.219102 Z"
+       style="display:inline;fill:none;stroke:#fe346e;stroke-width:3.19139;stroke-opacity:1"
+       d="M 25.399999,13.425533 11.580897,37.360923 H 39.219102"
        id="path2"
-       inkscape:label="triangle" />
+       inkscape:label="triangle"
+       sodipodi:nodetypes="ccc" />
     <circle
-       style="fill:#f8f8f8;fill-opacity:1;stroke:#fe346e;stroke-width:3.00537;stroke-opacity:1"
+       style="display:inline;fill:#f8f8f8;fill-opacity:1;stroke:#fe346e;stroke-width:3.00537;stroke-opacity:1"
        id="path1"
        cx="25.399998"
        cy="13.424935"
        r="6.6686525"
        inkscape:label="circle1" />
     <circle
-       style="fill:#f8f8f8;fill-opacity:1;stroke:#fe346e;stroke-width:3.00537;stroke-opacity:1"
+       style="display:inline;fill:#f8f8f8;fill-opacity:1;stroke:#fe346e;stroke-width:3.00537;stroke-opacity:1"
        id="path1-5"
        cx="11.580897"
        cy="37.360321"
        r="6.6686525"
        inkscape:label="circle2" />
     <circle
-       style="fill:#f8f8f8;fill-opacity:1;stroke:#fe346e;stroke-width:3.00537;stroke-opacity:1"
+       style="display:inline;fill:#f8f8f8;fill-opacity:1;stroke:#fe346e;stroke-width:3.00537;stroke-opacity:1"
        id="path1-2"
        cx="39.219101"
        cy="37.360321"
